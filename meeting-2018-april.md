@@ -34,3 +34,4 @@ April 11, 2018
     * CFA Fellowship Partners
     * Data + Donuts fall training seminar - volunteers (Sep/Oct)
 * For Discussion
+  * Governance Repo
