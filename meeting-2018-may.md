@@ -58,3 +58,6 @@ May 21, 2018
 * SCALE - Open Data Day / Brigade Event
 * CFA Fellowship Partners - start scoping out ideas and talk to government folks for next year.
 * Data + Donuts fall training seminar - volunteers (Sep/Oct)
+
+## NOTES
+
