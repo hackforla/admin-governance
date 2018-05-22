@@ -6,6 +6,7 @@ May 21, 2018
 * **Governance**
   * Hackerfund fiscal sponsorship status.
   * HFLA Governance & Advisory Board docs
+  * Blogger volunteer?
   
 ## Nina
 
