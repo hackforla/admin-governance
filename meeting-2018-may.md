@@ -44,6 +44,7 @@ May 21, 2018
 * **DTLA - Josh & Tamura**
   * Project Updates
   * Spare - [Nina] I met someone at the civic tech happy hour who works closely with Skid Row non-profits and orgs.  I invited him to come to our hack nights and work with this group as a subject matter expert.
+  * Clean Air LA - new project started last week
   * Needs?
 * **Santa Monica - Wes & Kegan**
   * Project Updates
