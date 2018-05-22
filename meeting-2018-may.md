@@ -65,3 +65,45 @@ May 21, 2018
 
 ## NOTES
 
+```Meeting begins at 7:10PM local
+In attendance: Anthony, Josh, Kegan, Tamura, and Wes
+
+As a part of Hackerfund, we can begin using & generating funds as we're ready use/accept. (ie. selling tshirts)
+
+Open to new funding ideas!
+- Kegan has an idea to embed donation form into our welcome message
+- Team will brainstorm new ideas!
+
+Can individual project teams apply for grants?
+- Yes, but we don't have a fully thought out process in place. Hack for LA would manage finances, project team would need to prove that they could steward the finances appropriately.
+
+Anthony met with Vyki to outline governance documents, succession plans, and more.
+- Finishing up this week
+- Gives us full ownership over our Google Apps, Domain, Email Accounts, etc.
+- Document will live within our governance Github repository
+
+Westside Hack Nights:
+- Slowdown in attendance, perhaps due to change in day & location
+- Active Projects: Open Street Tree
+- Retention is difficult
+
+DTLA Hack Nights
+- Active Projects: Spare, Clean Air LA, Curbmap
+- Retention is difficult
+
+South LA
+- Don't yet have space? Kimberly looking for a space
+- Not yet ready to decide on a launch date?
+
+Demo Day
+- Concerns about timing 
+- Plan for a day along the July-September timeframe
+- Look for food/drink vendors
+- Livestreaming / Video recording
+
+Potential Demo Day Locations: 
+- Brewery/Restaurant
+- LACI
+- CCF
+
+Meeting ends at 8:15PM
