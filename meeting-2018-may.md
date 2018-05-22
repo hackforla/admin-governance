@@ -6,7 +6,7 @@ May 21, 2018
 * **Governance**
   * Hackerfund fiscal sponsorship status.
   * HFLA Governance & Advisory Board docs
-  * Blogger volunteer?
+  * Merch designs
   
 ## Nina
 
@@ -35,6 +35,9 @@ May 21, 2018
     * I’ll be on a panel about “How Brigade-Government Relationships are Renewing Civic Infrastructure”.
     * There will be a **Brigade Lounge** area for brigade members to hang out at and for people interested in the brigade program to find out more.  I’m thinking of bringing a civic crafting project.
   * **Saturday** - CFA is hosting breakfast for brigades at their San Francisco office.
+* **Other things**
+  * Website redesign - Should we ressurect the project group to roll out the multiple things in the pipeline? https://github.com/hackforla/website-redesign/issues
+  * Blogger volunteer - I haven't followed up with the volunteer yet.
 
 ## Hack Nights
 
