@@ -75,16 +75,16 @@ June 13, 2018
     * State Agency Inventory (status of state agencies’ open data)
 
 ## Upcoming Events
-* Civic Tech Happy Hour
+* **Civic Tech Happy Hour**
   * Friday, June 29 (time TBD)
   * Location TBD
-* National Day of Civic Hacking
+* **National Day of Civic Hacking**
   * Saturday, August 11
   * What are we doing?!
-* Big Data Day
+* **Big Data Day**
   * Saturday, August 11 (can we even go?)
   * Call for proposals open now!
-* Demo Day
+* **Project Demo Day**
   * By mid-September / mid-October
   * Location: where??? LACI? CCF? Other site?
   * Invite List: gov partners, npos, and special invites to Catherine & Lily
@@ -92,13 +92,14 @@ June 13, 2018
   * Presentations: What do we want them to present?
     * We need to let all the project groups know ahead of time so they can prepare presentations.
     * Nina would say a condensed version of the Civic Tech Canvas, no wireframes/mockups/MVPs necessary.  
-* Data + Donuts
+* **Data + Donuts**
   * 2-day event in September/October
-  * Fall training seminar needs volunteers
-* 2019 events:
+  * Fall training seminar, needs volunteers
+* **2019 Events**
   * SCALE 17x
-  * Open Data Day / Brigade Event
-  * CFA Fellowships
+  * Open Data Day
+    * Brigade Event
+  * Code for America Fellowship Program
     * Start scoping out ideas and talk to government folks for next year.
 
 ## NOTES
