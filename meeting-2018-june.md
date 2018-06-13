@@ -12,17 +12,17 @@ June 13, 2018
   * Generate donations via selling?
 
 ## Website & Online Presence
-  * Site redesign
-  * Should we resurrect the project group to roll out the multiple things in the pipeline?
-  * https://github.com/hackforla/website-redesign/issues
-  * Volunteer Blogger
-  * Someone responded to our callout for a blogger
-  * What is the person blogging about?
-  * Volunteer Social Media Manager
-  * Welcoming Andrea!
-  * What is our brand messaging?
-  * What tasks should she be performing?
-  * Who will oversee her?
+  * **Site redesign**
+    * Should we resurrect the project group to roll out the multiple things in the pipeline?
+    * https://github.com/hackforla/website-redesign/issues
+  * **Volunteer Blogger**
+    * Someone responded to our callout for a blogger
+    * What is the person blogging about?
+  * **Volunteer Social Media Manager**
+    * Welcoming Andrea!
+    * What is our brand messaging?
+    * What tasks should she be performing?
+    * Who will oversee her?
 
 ## Hack Night Updates
   * **DTLA (Josh)**
