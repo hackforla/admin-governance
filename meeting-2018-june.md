@@ -51,13 +51,13 @@ June 13, 2018
     * If an existing community project meets our project guidelines, can we support them without owning them?
     * What would this look like?
 
-## DPSS Hackathon Partnership
+## INFO: DPSS Hackathon Partnership
   * Department of Public Social Services who want to throw a hackathon
     * Nina met with officials
     * They put our name down as a nonprofit community partner for their grant application
   * More information to come...
 
-## Brigade Action Teams (BATs)
+## INFO: Brigade Action Teams (BATs)
   * Brings together multiple brigades to collaborate on a project
   * **Matchmaking/Project Framework**
     * Lots of discussions on discourse forums
@@ -65,7 +65,7 @@ June 13, 2018
     * This coincides conveniently with our recent discussions about our HFLA project groups.
     * While there’s a lot of support for the idea, someone needs to step up to be the champion for this as a BAT project.
 
-## Collaboration with 'Code for California'
+## INFO: Collaboration with 'Code for California'
   * Merge with existing “California Civic Lab”, which was already established between Code for Sacramento, Code for San Francisco, Code for San Jose, Open Oakland, and Open San Diego - http://caciviclab.org/
   * **Potential projects:**
     * Send Open Data Pledge to CA Senator & Governor candidates for this year's elections.
@@ -92,10 +92,13 @@ June 13, 2018
   * Presentations: What do we want them to present?
     * We need to let all the project groups know ahead of time so they can prepare presentations.
     * Nina would say a condensed version of the Civic Tech Canvas, no wireframes/mockups/MVPs necessary.  
-* SCALE - Open Data Day / Brigade Event
-* CFA Fellowship Partners - start scoping out ideas and talk to government folks for next year.
 * Data + Donuts
   * 2-day event in September/October
   * Fall training seminar needs volunteers
+* 2019 events:
+  * SCALE 17x
+  * Open Data Day / Brigade Event
+  * CFA Fellowships
+    * Start scoping out ideas and talk to government folks for next year.
 
 ## NOTES
