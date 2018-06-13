@@ -4,6 +4,8 @@ June 13, 2018
 ## Code for America Summit Recap
   * Nina, Josh, & Wes attended
   * Any highlights or takeaways?
+    * Nina
+      * Meeting people where they are - building in attending community meetings, non-profit/gov hosted events as part of our activities.
 
 ## Governance
   * HFLA Governance & Advisory Board docs
@@ -75,6 +77,9 @@ June 13, 2018
     * State Agency Inventory (status of state agencies’ open data)
 
 ## Upcoming Events
+* **National Day of Civic Hacking - Workshop**
+  * Monday, June 18, 7pm ET/4pm PT
+  * https://discourse.codeforamerica.org/t/want-to-present-on-the-preparing-for-ndoch-workshop-on-june-18/168
 * **Civic Tech Happy Hour**
   * Friday, June 29 (time TBD)
   * Location TBD
