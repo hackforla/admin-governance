@@ -89,6 +89,9 @@ July 2018, TBD
       * Open Disclosure (visualize campaign finance data in local elections)
       * State Agency Inventory (status of state agencies’ open data)
 
+## Fill Out Next Doodle!
+* https://doodle.com/poll/3wnynp6f74dn9iwk
+
 ## NOTES
 
 *
