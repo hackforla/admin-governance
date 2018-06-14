@@ -8,20 +8,6 @@ July 2018, TBD
   * Any ideas for merch design?
   * Should we consider a name change? Does 'Hack for LA' convey the inclusivity that we want to foster?
 
-## Website & Online Presence
-  * **Site redesign**
-    * Resurrect the project group?
-      * Kegan taking charge of website project group?
-      * Does Kegan have Github management access?
-      * https://github.com/hackforla/website-redesign/issues
-  * **Volunteer Blogger**
-    * Updates on blogger
-    * What will the person blog about?
-  * **Volunteer Social Media Manager**
-    * Updates from Andrea
-    * What have we accomplished in the past month?
-    * What are looking forward to accomplishing in the next month?
-
 ## Hack Night Updates
   * **DTLA (Josh)**
     * Existing Project Updates
@@ -47,20 +33,19 @@ July 2018, TBD
   * **Existing Community Projects**
     * Share thoughts on supporting existing community projects that adhere to our guidelines
 
-## INFO: DPSS Hackathon Partnership
-  * Updates on DPSS Hackathon
-    * Department of Public Social Services is seeking grant funding to throw a hackathon
-    * Hack for LA is listed as a nonprofit community partner for their grant application
-    * What can HFLA get out of this partnership? (eg. donations, visibility, etc.)
-
-## INFO: Collaboration with 'Code for California'
-  * Merge with existing “California Civic Lab”, which was already established between Code for Sacramento, Code for San Francisco, Code for San Jose, Open Oakland, and Open San Diego - http://caciviclab.org/
-  * **Potential projects:**
-    * Send Open Data Pledge to CA Senator & Governor candidates for this year's elections.
-    * See Chi Hack Night's work: https://chihacknight.org/events/2018/02/13/kim-foxx.html
-  * **Existing CA Civic Lab projects:**
-    * Open Disclosure (visualize campaign finance data in local elections)
-    * State Agency Inventory (status of state agencies’ open data)
+## Website & Online Presence
+  * **Site redesign**
+    * Resurrect the project group?
+      * Kegan taking charge of website project group?
+      * Does Kegan have Github management access?
+      * https://github.com/hackforla/website-redesign/issues
+  * **Volunteer Blogger**
+    * Updates on blogger
+    * What will the person blog about?
+  * **Volunteer Social Media Manager**
+    * Updates from Andrea
+    * What have we accomplished in the past month?
+    * What are looking forward to accomplishing in the next month?
 
 ## Upcoming Events
 * **National Day of Civic Hacking (Saturday, August 11)**
@@ -88,6 +73,21 @@ July 2018, TBD
     * Brigade Event
   * Code for America Fellowship Program
     * Start scoping out ideas and talk to government folks for next year.
+
+## Informational Section
+  * **DPSS Hackathon Partnership**
+    * Department of Public Social Services is seeking grant funding to throw a hackathon
+    * Hack for LA is listed as a nonprofit community partner for their grant application
+    * What can HFLA get out of this partnership? (eg. donations, visibility, etc.)
+
+  * **Collaboration with 'Code for California'**
+    * Merge with existing “California Civic Lab”, which was already established between Code for Sacramento, Code for San Francisco, Code for San Jose, Open Oakland, and Open San Diego - http://caciviclab.org/
+    * **Potential projects:**
+      * Send Open Data Pledge to CA Senator & Governor candidates for this year's elections.
+      * See Chi Hack Night's work: https://chihacknight.org/events/2018/02/13/kim-foxx.html
+    * **Existing CA Civic Lab projects:**
+      * Open Disclosure (visualize campaign finance data in local elections)
+      * State Agency Inventory (status of state agencies’ open data)
 
 ## NOTES
 
