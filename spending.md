@@ -14,6 +14,7 @@ Useful Things
 Tech Things
 
 * Domain Names
+* Heroku - CFA actually pays for access on a project basis - http://brigade.codeforamerica.org/resources/software
 
 Marketing Things
 
@@ -21,5 +22,6 @@ Marketing Things
 * Fitted women's tees
 * Custom sticker swag
 * Custom t-shirt designs
-* Unique swag in general
+* Other swag
+  * Tote bags
 
