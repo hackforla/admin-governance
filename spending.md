@@ -9,6 +9,7 @@ Useful Things
 * Giant post-it notes
 * Flyer printing (to distribute at other orgs' events)
 * Name tag stickers
+* Printed displays for project groups to present.
 
 Tech Things
 
