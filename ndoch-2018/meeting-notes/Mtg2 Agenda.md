@@ -28,6 +28,7 @@
 
 -----
 [Event Planning Document](https://docs.google.com/document/d/1-VFS6JzLtSH5MCPX5PGGjH8Swg9GqKD2VvgFhzNTWNk/edit?ts=5b57609d)
+
 [Workshop Agenda](https://drive.google.com/open?id=1-kDVWvUh01_EvlWkPD-LFB8FpJpTznnAHumP58vVSNI)
 
 -----
