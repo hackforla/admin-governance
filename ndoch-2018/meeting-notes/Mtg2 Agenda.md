@@ -131,6 +131,7 @@
 	* Update EB/Meetup/FB with speakers list
 	* Check with CCF if there are on-site restrictions for receiving donations
 	* Check with CCF on audio recording capabilities
+	* Check with CCF on food options
 	* Share w/ Andrea the CCF social media content
 	* Share w/ Marie & Lex the CCF map
 	* Share w/ LA Counts the expectations and partnership goals of event
