@@ -35,13 +35,6 @@
 [Workshop Agenda](https://drive.google.com/open?id=1-kDVWvUh01_EvlWkPD-LFB8FpJpTznnAHumP58vVSNI)
 
 -----
-# Next Meeting Agenda
-1. Attendee Packet Review
-1. Speaker Packet Review
-1. Volunteer Updates
-1. Ordering Presentation Speakers
-
------
 # Meeting Notes
 
 ## LA Counts
@@ -92,6 +85,7 @@
 	* We purchased shirts for $7 each
 * $5 donations
 	* Specific national-day stickers
+	* Jim's cookies?
 * $15 donation
 	* "For a donation of at least $15, you'll be able to go home with a free t-shirt today!"
 	* Create a sign for our tshirt table
@@ -122,37 +116,40 @@
 * How to get to the event
 * etc.
 
-## Attendee Packets
-*
-
 ## Volunteers
-* Ken can shoot video
-	* Josh to check with CCF on audio recording capabilities
-*
+* Ken can shoot video, but needs to check on the venue's audio recording capabilities
 
-Andrea
-## Action Items / takeaways
+# Action Items / takeaways
 * Nina
-	* Send callout in #general channel
-	* Thank you cards for Speakers
+	* Send callout in #general channel for designers
+	* Write thank you cards for Speakers
 * Anthony
-	* Send out speaker announcement
-	*
+	* Draft speaker announcement email
+	* Send speaker announcement email on Thursday, Aug 2nd
 * Josh
-	* Update donorbox
-	* Update EB with speakers
-* Jim
-	* Bake cookies for donation?
+	* Update donorbox for ndoch
+	* Update EB/Meetup/FB with speakers list
+	* Check with CCF if there are on-site restrictions for receiving donations
+	* Check with CCF on audio recording capabilities
+	* Share w/ Andrea the CCF social media content
+	* Share w/ Marie & Lex the CCF map
+	* Share w/ LA Counts the expectations and partnership goals of event
 * Lex
-	* Attendee info packet
-		* Print out workshop packets
-	* Design for small sign for donation table
-	* Design for national day sticker
-	*
+	* Draft attendee info packet
+	* For event, print out workshop packets
+	* Design small sign for donation table
+	* Design national day sticker
 * Andrea
 	* Volunteer info packet
-	* 
+	* Draft social media content (work w/ Josh)
 * Marie
-	* Speaker prep info (work w/ Lex)
-		* To collect speaker info
+	* Draft speaker prep packet (work w/ Lex)
 	* Contact
+
+-----
+## Next Meeting Agenda
+1. General Updates
+1. Attendee Packet Review
+1. Speaker Packet Review
+1. Volunteer Updates
+1. Ordering the Presentation Speakers
