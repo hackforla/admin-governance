@@ -6,7 +6,7 @@
 		* Write thank you cards for Speakers
 	* Anthony
 		* Draft speaker announcement email
-		* Send speaker announcement email on Thursday, Aug 2nd
+		* Send speaker announcement email
 	* Josh
 		* Update donorbox for ndoch
 		* Update EB/Meetup/FB with speakers list
@@ -26,8 +26,11 @@
 		* Draft social media content (work w/ Josh)
 	* Marie
 		* Draft speaker prep packet (work w/ Lex)
-		* Contact ?
+		* Contact speakers?
 1. General Updates (Anything we missed?)
+	* Local media coverage 
+	* Fundraising updates and new tactics
+	* New speakers added?
 1. TO DO: Put the Presentation Speakers in Order
 
 ## Final Meeting Agenda
