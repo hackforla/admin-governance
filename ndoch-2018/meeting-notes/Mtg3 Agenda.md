@@ -137,7 +137,7 @@
 			* Include info about other California brigades' events
 	* Send bit.ly link to all volunteers (& ensure everyone complies)
 	* Print out EB attendee list & donors list (to be cross-referenced at check-in)
-		* Can we find out who gave us a $25 donation on EB? Give them a tshirt!
+		* ~Can we find out who gave us a $25 donation on EB? Give them a tshirt!~ It was Vyki!
 	* Bring cake pops
 * Anthony
 	* ~Draft & Send speaker announcement email, including information for tshirt presales~
@@ -166,5 +166,5 @@
 * Marie
 	* Send informational email to speakers
 * Nina
-	* Delivering some stuff to Josh's office for Friday
-	* Get NDOCH stickers printed asap!
+	* Delivering some stuff to Josh's office for Monday
+	* ~Get NDOCH stickers printed asap!~ Arriving Friday
