@@ -120,19 +120,18 @@
 		* Haven't heard back from DMH
 	* Andrea to update Eventbrite
 	* Presentation Order
-		1. * DMH Speaker
-		1. Ann English
+		1. Peter Lynn (Keynote) -- double session
+		1. Ann English*
 		1. CSH speaker (Lived experience)
 		1. Jenny Portillo (CD3)
-		1. Peter Lynn (Keynote) -- double session
 		1. Emily Kantrim (Safe Parking LA)
-		1. Jerry (Homeless Initiative)
+		1. Jerry Ramirez (Homeless Initiative)
 		1. Dorit Dowler-Guerrero (SELAH)
 		1. Laura Guglielmo (HSID)
 
 ## Action Items
 * Andrea
-	* Update EB page with full list of speakers
+	* ~Update EB page with full list of speakers~
 	* To schedule on FB and Twitter, 2-posts per day leading up to Friday
 			* Tweet at speakers / organizations to get traction among their followers
 			* Include info about other California brigades' events
@@ -141,29 +140,31 @@
 		* Can we find out who gave us a $25 donation on EB? Give them a tshirt!
 	* Bring cake pops
 * Anthony
-	* Draft & Send speaker announcement email, including information for tshirt presales
+	* ~Draft & Send speaker announcement email, including information for tshirt presales~
 	* Reach out to companies for free swag for Friday
 	* Reach out to Catherine, Lilly, Vyki (& other important HFLA people), copy Josh
 	* Figure out how to get paid out from EB donations
 * Josh
-	* Bring new HFLA retractable banner for Friday
-	* Update the schedule based on speaker order (EB / Meetup / FB)
+	* ~Bring new HFLA retractable banner for Friday~
+	* ~Update the schedule based on speaker order (EB / Meetup / FB)~
 	* Receive tshirts from Anthony, to store at CCF
-	* Make changes to both donor boxes, hackforla (for day-of donations) and ndoch (for tshirt pre-sales)
+	* ~Make changes to both donor boxes, hackforla (for day-of donations) and ndoch (for tshirt pre-sales)~
 	* Get LACI stickers on Tuesday night
 		* Take everything we might need for Friday, on Tuesday night
-	* Send images of the space to the team
+	* ~Send images of the space to the team~
 	* Work with CCF to understand AV setup and recording capabilities
 	* Work with CCF on creating directional signage for event
 	* Figure out what to say for Opening & Closing Remarks
-		* Incorporate Spare & Jobs for Hope (& Tamura/Kegan) in closing remarks
-		* Check with Wes if he'll be able to attend
+		* Incorporate Spare & Jobs for Hope (& Tamura/Kegan/Wes) in closing remarks
+		* ~Check with Wes if he'll be able to attend~
 * Lex
-	* Make modifications to slides (working with Andrea for images, Josh for schedule, etc.)
-	* Modify schedule on attendee packet (get schedule updates from Josh)
-	* Create a sign for donation table (get link from Josh)
-	* Design the NDOCH sticker, with Nina
+	* Make modifications to slides (working with Andrea for images, ~Josh for schedule~, etc.)
+	* Modify schedule on attendee packet (~get schedule updates from Josh~)
+	* Create a sign for donation table (~get link from Josh~)
+	* ~Design the NDOCH sticker, with Nina~
 	* Bring thank you cards to Hack night on Tuesday to get volunteers to write these
+* Marie
+	* Send informational email to speakers
 * Nina
 	* Delivering some stuff to Josh's office for Friday
 	* Get NDOCH stickers printed asap!
