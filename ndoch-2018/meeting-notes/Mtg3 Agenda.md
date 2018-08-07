@@ -152,8 +152,8 @@
 	* Get LACI stickers on Tuesday night
 		* Take everything we might need for Friday, on Tuesday night
 	* ~Send images of the space to the team~
-	* Work with CCF to understand AV setup and recording capabilities
-	* Work with CCF on creating directional signage for event
+	* ~Work with CCF to understand AV setup and recording capabilities~
+	* ~Work with CCF on creating directional signage for event~
 	* Figure out what to say for Opening & Closing Remarks
 		* Incorporate Spare & Jobs for Hope (& Tamura/Kegan/Wes) in closing remarks
 		* ~Check with Wes if he'll be able to attend~
@@ -166,5 +166,6 @@
 * Marie
 	* Send informational email to speakers
 * Nina
-	* Delivering some stuff to Josh's office for Monday
+	* ~Post-its and Sharpies arriving to Josh's office on Monday~
+	* More sharpies arriving to Josh's office on Wednesday
 	* ~Get NDOCH stickers printed asap!~ Arriving Friday
