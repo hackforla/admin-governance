@@ -1,6 +1,6 @@
 # Leadership Roles
 
-Work in progress.  Lots of thoughts.  Do we need to define terms?  How do we select new members of the leadership team, or decide on additional roles?
+Work in progress.  Lots of thoughts.  Do we need to define terms?  How do we select new members of the leadership team, or decide on additional roles?  How do we determine if someone isn't fulfilling their roles?
 
 * Executive Director (Captain)
 * Associate Director (Operations Lead)
