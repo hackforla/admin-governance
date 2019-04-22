@@ -72,4 +72,4 @@ The Co-Chairs will work with the Directors to establish the procedures and roles
   2. Nominee fills out application info - what's their vision for the org, how do they see us going about it.
   3. Set up an in-person interaction.
   4. Leadership team votes.
-* Define what is requried to meet quorum for deciding changes to these governance roles.
+* Define what is requried to meet quorum for deciding changes to these governance rules and leadership roles.
